@@ -9,7 +9,7 @@
                 "RetryLevel": 0
             },
             "CheckConf": {
-                "Schem": "http",
+                "Schem": "tcp",
                 "Uri": "/healthcheck",
                 "Host": "example.org",
                 "StatusCode": 200,

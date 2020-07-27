@@ -2,7 +2,7 @@
     "Clusters": {
         "cluster_example": {
             "GSLB_BLACKHOLE": 0,
-            "example.bfe.bj": 100
+            "cluster_demo_dynamic": 100
         }
     },
     "Hostname": "",
