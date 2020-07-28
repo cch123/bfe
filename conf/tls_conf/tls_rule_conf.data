@@ -13,7 +13,7 @@
                 "http/1.1"
             ],
             "Grade": "C",
-            "ClientAuth": true,
+            "ClientAuth": false,
             "ClientCAName": "example_ca"
         }
     }
